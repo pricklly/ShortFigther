@@ -1,0 +1,8 @@
+E:\Project\ShortFigther\ShortFigther\bin\Debug\ShortFigther.exe.config
+E:\Project\ShortFigther\ShortFigther\bin\Debug\ShortFigther.exe
+E:\Project\ShortFigther\ShortFigther\bin\Debug\ShortFigther.pdb
+E:\Project\ShortFigther\ShortFigther\obj\Debug\ShortFigther.csprojResolveAssemblyReference.cache
+E:\Project\ShortFigther\ShortFigther\obj\Debug\ShortFigther.MainForm.resources
+E:\Project\ShortFigther\ShortFigther\obj\Debug\ShortFigther.csproj.GenerateResource.Cache
+E:\Project\ShortFigther\ShortFigther\obj\Debug\ShortFigther.exe
+E:\Project\ShortFigther\ShortFigther\obj\Debug\ShortFigther.pdb
